@@ -1,0 +1,19 @@
+{
+  "name": "greedygoblin",
+  "version": "1.0.0",
+  "description": "Something we don't talk about...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceonepiece/greedygoblin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceonepiece/greedygoblin/issues"
+  },
+  "homepage": "https://github.com/iceonepiece/greedygoblin#readme"
+}
